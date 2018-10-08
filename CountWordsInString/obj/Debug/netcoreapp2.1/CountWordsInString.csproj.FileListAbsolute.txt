@@ -1,0 +1,11 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\bin\Debug\netcoreapp2.1\CountWordsInString.deps.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\bin\Debug\netcoreapp2.1\CountWordsInString.runtimeconfig.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\bin\Debug\netcoreapp2.1\CountWordsInString.runtimeconfig.dev.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\bin\Debug\netcoreapp2.1\CountWordsInString.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\bin\Debug\netcoreapp2.1\CountWordsInString.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.AssemblyInfoInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.AssemblyInfo.cs
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\CountWordsInString\CountWordsInString\obj\Debug\netcoreapp2.1\CountWordsInString.pdb
